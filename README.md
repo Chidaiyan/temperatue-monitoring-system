@@ -16,5 +16,7 @@
 
 *SOFTWARE USED*:ARDUINO IDLE,PROTEUS FOR STIMULATION
 
+*CIRCUIT DESIGN* : <img width="816" height="582" alt="Image" src="https://github.com/user-attachments/assets/484a645b-cd82-4895-a26d-7ae10d17b1e5" />
+
 
 
